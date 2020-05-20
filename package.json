@@ -1,0 +1,18 @@
+{
+  "name": "astrobot",
+  "version": "1.0.0",
+  "description": "A custom Discord Bot, designed to replace RawrBot 2.0",
+  "main": "astrobot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marty McFly",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "discord.js-commando": "github:discordjs/Commando",
+    "git": "^0.1.5",
+    "request": "^2.88.2",
+    "webp-converter": "^2.2.3"
+  }
+}
